@@ -5,4 +5,4 @@ Here we are presented with single cell data. The data can be obtained here. Make
 * eda.ipynb
 
 ## Transformation of data
-The first thing we do is transform the datasets we have. We apply better compression and also transpose the data to obtain an columnoriented dataset.
+The first thing we do is transform the datasets we have. We apply better compression and also transpose the data to obtain a column oriented dataset.
